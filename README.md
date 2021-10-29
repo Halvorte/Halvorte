@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halvorte)](https://github.com/Halvorte/github-readme-stats)
+## Top languages ##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halvorte)](https://github.com/anuraghazra/github-readme-stats)
+
+![Halvorte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halvorte&show_icons=true)
