@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a computer engineer student at the University of Agder (UIA)
+- I'm a master's student at the University of Agder (UIA)
 
 <!--
 **Halvorte/Halvorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
