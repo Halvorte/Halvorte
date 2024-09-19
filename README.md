@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm a master's student at the University of Agder (UIA)
+- I'm working as a consultant for Bouvet
+- I have a MSc in AI from the University of Agder (UIA)
 
 <!--
 **Halvorte/Halvorte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
